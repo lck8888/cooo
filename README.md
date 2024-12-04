@@ -1,1 +1,5 @@
-# cooo
+姓名：廖灿坤 学号：202230441480
+在brach中有着相关代码 lib是支持的jar包 web中是相关的代码 .idea中是模块设置文件
+web中里面的webinf的classes是相关的类 lib是配置文件
+admin是后台管理文件，css是样式，fonts是字体其他都是用户界面的东西
+
